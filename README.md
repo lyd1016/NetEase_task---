@@ -24,3 +24,7 @@ ffm_run.py        为libffm模型的运行代码
 model_ensemble.py 为stacking部分的代码
 
 main.py           会对以上几个部分的模型的代码依次进行运行并产生结果
+
+3.output  为保存输出结果的文件夹
+
+由于输出的结果文件较大，因此没有上传。
